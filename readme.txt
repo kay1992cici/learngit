@@ -6,4 +6,4 @@ Now,a new day.
 I want revis some tips.like git status,git commit -m ""
 git log,git reflog,git hard HEAD,git hard HEAD^.....
 git branch
-Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
